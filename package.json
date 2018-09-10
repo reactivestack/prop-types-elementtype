@@ -1,0 +1,26 @@
+{
+  "name": "prop-types-elementtype",
+  "version": "1.0.0",
+  "description": "PropTypes for elementType until merged in official",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "README.md",
+    "index.js",
+    "development.js",
+    "production.js"
+  ],
+  "repository": "reactivestack/prop-types-elementtype",
+  "keywords": [
+    "react",
+    "prop-types",
+    "elementtype"
+  ],
+  "bugs": {
+    "url": "https://github.com/reactivestack/prop-types-elementtype/issues"
+  },
+  "homepage": "https://github.com/reactivestack/prop-types-elementtype",
+  "dependencies": {
+    "react-is": "^16.5.0"
+  }
+}
